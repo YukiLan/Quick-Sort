@@ -2,6 +2,8 @@
 using namespace std;
 void quickSort(int a[], int, int);
 
+// test
+
 int main()
 {
 	int array[]={43,64,24,13,4,67,97,35,86,34,98,2,37};
